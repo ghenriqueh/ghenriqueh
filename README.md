@@ -1,12 +1,12 @@
 # Olá! Eu sou Gustavo Henrique 👋
 
-### 📊 Aspirante a Analista de Dados | Psicólogo em transição de carreira | Entusiasta de Tecnologia
+### 📊 Analista de Dados em formação | Psicólogo em transição de carreira | Em construção da minha trajetória analítica pelos dados
 
 Sou graduado em **Psicologia** e atualmente estou direcionando minha trajetória profissional para a área de **Análise de Dados**.
 
-Minha formação em Psicologia contribuiu para desenvolver habilidades de análise crítica, interpretação de informações, investigação e compreensão de fenômenos complexos. Agora, busco aplicar essa bagagem em um novo contexto, utilizando dados e tecnologia para transformar informações em conhecimento e apoiar a tomada de decisões.
+Minha formação em psicologia contribuiu para desenvolver habilidades de análise crítica, interpretação de informações, investigação e compreensão de fenômenos complexos. Agora, busco aplicar essa bagagem em um novo contexto, utilizando dados e tecnologia para transformar informações em conhecimento e apoiar a tomada de decisões.
 
-Estou em constante aprendizado, desenvolvendo conhecimentos em programação, análise estatística, visualização de dados e Business Intelligence.
+Estou em constante aprendizado, desenvolvendo conhecimentos em programação, análise estatística, visualização de dados e BI.
 
 ### 🎓 Formação e desenvolvimento
 
